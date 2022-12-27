@@ -44,6 +44,9 @@
 - 내 질문을 보기 위한 버튼
 - 내 답변을 보기 위한 버튼
 
+결과 분석
+- 
+
 유지 보수
 - 활성화를 위해 포인트를 사용하는 상점 제작
 - 코드 리팩터링을 통해 효율적인 프로그램 개발
@@ -66,7 +69,7 @@
 - 엄...
 
 중간 발표 자료
-- 엄...
+- https://docs.google.com/presentation/d/19Yqf2DfD1iWIFuhZPASuuqCnH-yaR16B/edit#slide=id.p20
 
 최종 발표 자료
-- 엄...
+- https://docs.google.com/presentation/d/16vBP39_MVUBtIv2RIwAUxEQQSxTi-UxB/edit#slide=id.p2
