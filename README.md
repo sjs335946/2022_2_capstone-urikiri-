@@ -86,7 +86,7 @@
 - ㅁ?ㄹ
 
 프로젝트 소개 영상
-- ㅁ?ㄹ
+- https://www.youtube.com/watch?v=d3u8C4B2QOE
 
 계획 발표 자료
 - https://docs.google.com/presentation/d/1I6KBepz2exwJJpEc_F-yPokL3GJAj11y/edit#slide=id.p1
