@@ -51,7 +51,7 @@
 - 타 교과 분야에서 사용할 수 있도록 개발
 
 깃허브 저장소 주소
-- 
+- 엄...
 
 실행 주소
 - https://urikiri.gbsw.hs.kr/publicing/php/page/main.php
